@@ -72,18 +72,26 @@
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="YoO-O4-1vq" firstAttribute="leading" secondItem="4A1-fI-CZs" secondAttribute="trailing" constant="30" id="DP4-4A-Dj8"/>
-                            <constraint firstItem="2LF-iQ-q4e" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="150" id="EeV-ju-l3s"/>
+                            <constraint firstItem="2LF-iQ-q4e" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="150" id="EeV-ju-l3s">
+                                <variation key="heightClass=compact" constant="30"/>
+                            </constraint>
                             <constraint firstItem="BAV-Eb-2kW" firstAttribute="leading" secondItem="H0U-Dp-pJa" secondAttribute="trailing" constant="10" id="FhL-Ei-fn5"/>
                             <constraint firstItem="9ri-hj-igr" firstAttribute="top" secondItem="2LF-iQ-q4e" secondAttribute="bottom" constant="20" id="GTT-04-D7K"/>
                             <constraint firstItem="imb-B4-Kvs" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="HeR-Or-HWn"/>
-                            <constraint firstItem="YoO-O4-1vq" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="150" id="IUG-ed-Io2"/>
+                            <constraint firstItem="YoO-O4-1vq" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="150" id="IUG-ed-Io2">
+                                <variation key="heightClass=compact" constant="30"/>
+                            </constraint>
                             <constraint firstItem="P8I-Az-wtY" firstAttribute="top" secondItem="imb-B4-Kvs" secondAttribute="bottom" constant="10" id="Pe5-aq-qr3"/>
                             <constraint firstItem="P8I-Az-wtY" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="UZj-5z-YZL"/>
-                            <constraint firstItem="4A1-fI-CZs" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="150" id="YfG-zg-QRC"/>
+                            <constraint firstItem="4A1-fI-CZs" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="150" id="YfG-zg-QRC">
+                                <variation key="heightClass=compact" constant="30"/>
+                            </constraint>
                             <constraint firstItem="9ri-hj-igr" firstAttribute="leading" secondItem="BAV-Eb-2kW" secondAttribute="trailing" constant="10" id="ZLm-oY-eVG"/>
                             <constraint firstItem="H0U-Dp-pJa" firstAttribute="top" secondItem="4A1-fI-CZs" secondAttribute="bottom" constant="20" id="aF6-oi-MuF"/>
                             <constraint firstItem="BAV-Eb-2kW" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="ge6-IV-7nP"/>
-                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="P8I-Az-wtY" secondAttribute="bottom" constant="100" id="lZ9-WY-7k6"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="P8I-Az-wtY" secondAttribute="bottom" constant="100" id="lZ9-WY-7k6">
+                                <variation key="heightClass=compact" constant="30"/>
+                            </constraint>
                             <constraint firstItem="YoO-O4-1vq" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="nLd-X3-apu"/>
                             <constraint firstItem="BAV-Eb-2kW" firstAttribute="top" secondItem="YoO-O4-1vq" secondAttribute="bottom" constant="20" id="u6c-RV-MHy"/>
                             <constraint firstItem="2LF-iQ-q4e" firstAttribute="leading" secondItem="YoO-O4-1vq" secondAttribute="trailing" constant="30" id="yFg-fr-A3O"/>
@@ -238,14 +246,22 @@
                         <constraints>
                             <constraint firstItem="bQQ-xi-jyF" firstAttribute="centerX" secondItem="JAg-9M-Zs5" secondAttribute="centerX" id="6WC-Fv-faP"/>
                             <constraint firstItem="bQQ-xi-jyF" firstAttribute="top" secondItem="zjm-Qc-PCG" secondAttribute="bottom" constant="10" id="7u4-vH-llh"/>
-                            <constraint firstItem="JBg-zy-D0c" firstAttribute="top" secondItem="ads-gi-6qQ" secondAttribute="bottom" constant="150" id="8rJ-YY-Zfx"/>
+                            <constraint firstItem="JBg-zy-D0c" firstAttribute="top" secondItem="ads-gi-6qQ" secondAttribute="bottom" constant="150" id="8rJ-YY-Zfx">
+                                <variation key="heightClass=compact" constant="30"/>
+                            </constraint>
                             <constraint firstItem="T7l-ZC-27G" firstAttribute="leading" secondItem="JBg-zy-D0c" secondAttribute="trailing" constant="10" id="CFy-l8-cZs"/>
                             <constraint firstItem="NAu-wF-wNb" firstAttribute="leading" secondItem="T7l-ZC-27G" secondAttribute="trailing" constant="10" id="CiG-rg-vYF"/>
                             <constraint firstItem="T7l-ZC-27G" firstAttribute="centerX" secondItem="JAg-9M-Zs5" secondAttribute="centerX" id="Evn-Pq-weE"/>
-                            <constraint firstItem="NAu-wF-wNb" firstAttribute="top" secondItem="ads-gi-6qQ" secondAttribute="bottom" constant="150" id="HPV-0N-1Br"/>
-                            <constraint firstItem="hdl-d7-gHL" firstAttribute="top" secondItem="bQQ-xi-jyF" secondAttribute="bottom" constant="100" id="VkM-fB-ZX1"/>
+                            <constraint firstItem="NAu-wF-wNb" firstAttribute="top" secondItem="ads-gi-6qQ" secondAttribute="bottom" constant="150" id="HPV-0N-1Br">
+                                <variation key="heightClass=compact" constant="30"/>
+                            </constraint>
+                            <constraint firstItem="hdl-d7-gHL" firstAttribute="top" secondItem="bQQ-xi-jyF" secondAttribute="bottom" constant="100" id="VkM-fB-ZX1">
+                                <variation key="heightClass=compact" constant="30"/>
+                            </constraint>
                             <constraint firstItem="zjm-Qc-PCG" firstAttribute="centerX" secondItem="JAg-9M-Zs5" secondAttribute="centerX" id="Vwv-Vy-AS5"/>
-                            <constraint firstItem="T7l-ZC-27G" firstAttribute="top" secondItem="ads-gi-6qQ" secondAttribute="bottom" constant="150" id="p0s-EI-dzs"/>
+                            <constraint firstItem="T7l-ZC-27G" firstAttribute="top" secondItem="ads-gi-6qQ" secondAttribute="bottom" constant="150" id="p0s-EI-dzs">
+                                <variation key="heightClass=compact" constant="30"/>
+                            </constraint>
                         </constraints>
                     </view>
                 </viewController>
