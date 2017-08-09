@@ -15,7 +15,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
-        //这是本机的注释，另外再添加的注释
+        //这是本机的注释，另外再添加的注释 ，23if 死都发抖
         return true
     }
 
